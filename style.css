@@ -1,0 +1,25 @@
+.body{
+    width: 400px;
+    margin: 0 auto;
+    background-color: blueviolet;
+    min-height: 400px;
+}
+.input{
+
+    padding: 20px 0 0 0;
+    
+}
+.list{
+    margin-top: 10px;
+    color: white;
+    
+} 
+.index{
+    background: rgb(219, 223, 144);
+    padding-top: 100px;
+    width: 250px;
+    margin: 0 auto;
+    height: 450px;
+}
+
+
